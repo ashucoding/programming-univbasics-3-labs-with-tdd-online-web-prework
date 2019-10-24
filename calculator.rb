@@ -1,1 +1,2 @@
-first_number = 0
+first_number = 5
+expect ( second_number ). not_to equal
